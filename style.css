@@ -1,0 +1,14 @@
+.d-flex h3 {
+   font-size: 1.2em;
+   color: #2b8f6f;
+}
+
+.text-brand {
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.text-brand span {
+   font-weight: 120;
+   color: #2b8f6f;
+}
